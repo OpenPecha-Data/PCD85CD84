@@ -1,0 +1,20 @@
+id: PCD85CD84
+initial_creation_type: input
+source_metadata:
+  title: Karma Lingpa
+  language: de
+  description: 'Texts composed or revealed by the famous treasure-revealer Karma Lingpa
+    (karma gling pa, b. 14th. C.):'
+  volume:
+    af9a28231882412eae4182627f7da66d:
+      title: The Root Verses on the Six Bardos
+      parent: Bardos
+    5760086ea563474c8cf192df22c9b657:
+      title: The Benefits of the Vajra Guru Mantra and an Explanation of Its Syllables
+      parent: Mantra
+    fd0b33d8c10f43cf91a8e06c33836a8d:
+      title: 'Highway of the Great Yoga: A Daily Practice for the Peaceful and Wrathful
+        Deities of the Self-Liberated Wisdom Mind'
+      parent: Sādhanas
+created_at: '2022-03-01T00:11:54.850944'
+last_modified_at: '2022-03-01T00:11:54.850946'
